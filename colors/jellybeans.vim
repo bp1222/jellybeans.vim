@@ -530,6 +530,7 @@ hi! link phpBoolean Constant
 hi! link phpNull Constant
 hi! link phpArrayPair Operator
 hi! link phpOperator Normal
+hi! link phpMagicMethod Function
 hi! link phpRelation Normal
 hi! link phpVarSelector Identifier
 
